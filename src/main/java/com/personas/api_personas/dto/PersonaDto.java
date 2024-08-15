@@ -12,4 +12,5 @@ import lombok.Setter;
 public class PersonaDto {
     private String nombre;
     private String apellido;
+    private Long edad;
 }
